@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SignalR.API",
+    "\\SignalR.API\\Hubs"
+  ],
+  "SelectedNode": "\\SignalR.API\\Hubs\\MyHub.cs",
+  "PreviewInSolutionExplorer": false
+}
